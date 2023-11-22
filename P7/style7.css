@@ -1,0 +1,12 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#button {
+    text-align: center;
+    /*
+    color: blue;
+    */
+}
